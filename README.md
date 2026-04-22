@@ -16,7 +16,7 @@ Tailwind CSS • REST APIs • Git • Antigravity
 - **[CryptoKey](https://crypto-key.vercel.app)** — Secure browser-based password generator using Web Crypto API with entropy analysis, breach detection (Have I Been Pwned), and zero data storage. 
 - **[Jalavayu](https://jalavayu.vercel.app)** — Full-stack weather app with real-time weather & AQI data using WeatherAPI, featuring a Node.js/Express backend and responsive frontend built with Tailwind CSS. 
 
-<br><br><br><br>
+<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/menaka-kumari)
 <br><br>
  
