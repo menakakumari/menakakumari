@@ -9,9 +9,12 @@ I build clean, performant, and responsive web interfaces using modern frontend t
 - 📚 Continuously learning and improving
 
 ## Tech
-Angular • Next.js • React • TypeScript • JavaScript  
-Tailwind • REST APIs • Git • Antigravity
+Angular • Next.js • TypeScript • JavaScript  
+Tailwind CSS • REST APIs • Git • Antigravity
 
 ## Projects
-- **CryptoKey** — Secure browser-based password generator using Web Crypto API with entropy analysis, breach detection (Have I Been Pwned), and zero data storage. 
-- **Jalavayu** — Full-stack weather app with real-time weather & AQI data using WeatherAPI, featuring a Node.js/Express backend and responsive frontend built with Tailwind CSS. 
+- **[CryptoKey](https://crypto-key.vercel.app)** — Secure browser-based password generator using Web Crypto API with entropy analysis, breach detection (Have I Been Pwned), and zero data storage. 
+- **[Jalavayu](https://jalavayu.vercel.app)** — Full-stack weather app with real-time weather & AQI data using WeatherAPI, featuring a Node.js/Express backend and responsive frontend built with Tailwind CSS. 
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
