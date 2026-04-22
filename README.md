@@ -17,4 +17,7 @@ Tailwind CSS • REST APIs • Git • Antigravity
 - **[Jalavayu](https://jalavayu.vercel.app)** — Full-stack weather app with real-time weather & AQI data using WeatherAPI, featuring a Node.js/Express backend and responsive frontend built with Tailwind CSS. 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/menaka-kumari)
+
+> **Note**  
+> Think Less Do More.
