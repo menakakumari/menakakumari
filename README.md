@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Menaka
-Frontend Developer (Angular / Next.js) with 1+ year of experience building fast, responsive web apps.
+**Frontend Developer** (Angular / Next.js) with **1+ year of experience** building fast, responsive web apps.
 
 ## 🚀 About Me
 I build clean, performant, and responsive web interfaces using modern frontend technologies. With a strong focus on user experience and maintainable code, I enjoy working on products that solve real problems.
@@ -16,8 +16,8 @@ Tailwind CSS • REST APIs • Git • Antigravity
 - **[CryptoKey](https://crypto-key.vercel.app)** — Secure browser-based password generator using Web Crypto API with entropy analysis, breach detection (Have I Been Pwned), and zero data storage. 
 - **[Jalavayu](https://jalavayu.vercel.app)** — Full-stack weather app with real-time weather & AQI data using WeatherAPI, featuring a Node.js/Express backend and responsive frontend built with Tailwind CSS. 
 
-
+<br><br><br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/menaka-kumari)
-
-> **Note**  
+<br><br>
+ 
 > Think Less Do More.
