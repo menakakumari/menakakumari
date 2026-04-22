@@ -20,4 +20,4 @@ Tailwind CSS • REST APIs • Git • Antigravity
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/menaka-kumari)
 <br><br>
  
-> Think Less Do More.
+> Think Less Do More. :)
