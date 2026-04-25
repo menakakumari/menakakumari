@@ -14,7 +14,8 @@ Tailwind CSS • REST APIs • Git • Antigravity
 
 ## 📦 Projects
 - **[CryptoKey](https://crypto-key.vercel.app)** — Secure browser-based password generator using Web Crypto API with entropy analysis, breach detection (Have I Been Pwned), and zero data storage. 
-- **[Jalavayu](https://jalavayu.vercel.app)** — Full-stack weather app with real-time weather & AQI data using WeatherAPI, featuring a Node.js/Express backend and responsive frontend built with Tailwind CSS. 
+- **[Jalavayu](https://jalavayu.vercel.app)** — Full-stack weather app with real-time weather & AQI data using WeatherAPI, featuring a Node.js/Express backend and responsive frontend built with Tailwind CSS.
+- **[AI Agent](https://github.com/menakakumari/AI-Agent)** — An AI-powered agentic backend that converts natural language questions into executable SQL queries, runs them against a local SQLite database, and returns human-friendly responses in the user's language (English, Hindi, or Hinglish).
 
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/menaka-kumari)
