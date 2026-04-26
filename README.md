@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I build clean, performant, and responsive web interfaces using modern frontend technologies. With a strong focus on user experience and maintainable code, I enjoy working on products that solve real problems.
-- 💼 1+ year experience in frontend development
+- 💼 ~1 year experience in frontend development
 - ⚡ Skilled in Angular & Next.js ecosystems
 - 🧠 Focused on performance, scalability, and clean architecture
 - 📚 Continuously learning and improving
