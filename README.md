@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Menaka
-**Frontend Developer** (Angular / Next.js) with **1+ year of experience** building fast, responsive web apps; freelance experience included.
+**Frontend Developer** (Angular / Next.js) with **~1 year of experience** building fast, responsive web apps; freelance experience included.
 
 ## 🚀 About Me
 I build clean, performant, and responsive web interfaces using modern frontend technologies. With a strong focus on user experience and maintainable code, I enjoy working on products that solve real problems.
